@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Smart Complaint Management System",
+  "description": "Citizen grievance redressal portal with AI automated category classification, department assignment, real-time status tracking, audit history, and officer dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
